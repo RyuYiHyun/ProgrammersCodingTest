@@ -45,5 +45,14 @@
     <ClCompile Include="단어변환Level3.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="같은 숫자는 싫어Level1.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="기능개발.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="프로세스Level2.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
