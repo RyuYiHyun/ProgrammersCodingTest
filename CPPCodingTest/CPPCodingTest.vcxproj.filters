@@ -66,5 +66,8 @@
     <ClCompile Include="디스크 컨트롤러Level3.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="스택_큐.cpp">
+      <Filter>소스 파일\기본기</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
